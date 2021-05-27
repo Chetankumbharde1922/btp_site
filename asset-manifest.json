@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/btp_site/static/css/main.505b90ba.chunk.css",
+    "main.js": "/btp_site/static/js/main.1f6ce3ed.chunk.js",
+    "main.js.map": "/btp_site/static/js/main.1f6ce3ed.chunk.js.map",
+    "runtime-main.js": "/btp_site/static/js/runtime-main.2cbcc9dc.js",
+    "runtime-main.js.map": "/btp_site/static/js/runtime-main.2cbcc9dc.js.map",
+    "static/js/2.987b2ba7.chunk.js": "/btp_site/static/js/2.987b2ba7.chunk.js",
+    "static/js/2.987b2ba7.chunk.js.map": "/btp_site/static/js/2.987b2ba7.chunk.js.map",
+    "static/js/3.d2fc5a8f.chunk.js": "/btp_site/static/js/3.d2fc5a8f.chunk.js",
+    "static/js/3.d2fc5a8f.chunk.js.map": "/btp_site/static/js/3.d2fc5a8f.chunk.js.map",
+    "index.html": "/btp_site/index.html",
+    "static/css/main.505b90ba.chunk.css.map": "/btp_site/static/css/main.505b90ba.chunk.css.map",
+    "static/js/2.987b2ba7.chunk.js.LICENSE.txt": "/btp_site/static/js/2.987b2ba7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/btp_site/static/media/iitr_logo.9b06625b.png",
+    "static/media/About.css": "/btp_site/static/media/lungs.88f7456f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cbcc9dc.js",
+    "static/js/2.987b2ba7.chunk.js",
+    "static/css/main.505b90ba.chunk.css",
+    "static/js/main.1f6ce3ed.chunk.js"
+  ]
+}
